@@ -1,0 +1,1025 @@
+,Country,GoodatMaths,subject,frequence,Percentage
+0,Albania,Agree,computerProgramming,always_percentage,0.11
+1,Albania,Agree,computerProgramming,Often_percentage,0.24
+2,Albania,Agree,computerProgramming,Sometimes_percentage,0.27
+3,Albania,Agree,computerProgramming,Rarely_percentage,0.38
+4,Albania,Agree,extracurricularActivity,always_percentage,0.09
+5,Albania,Agree,extracurricularActivity,Often_percentage,0.26
+6,Albania,Agree,extracurricularActivity,Sometimes_percentage,0.39
+7,Albania,Agree,extracurricularActivity,Rarely_percentage,0.26
+8,Albania,Agree,helpFriendsMaths,always_percentage,0.13
+9,Albania,Agree,helpFriendsMaths,Often_percentage,0.49
+10,Albania,Agree,helpFriendsMaths,Sometimes_percentage,0.35
+11,Albania,Agree,helpFriendsMaths,Rarely_percentage,0.03
+12,Albania,Agree,participateInCompetitions,always_percentage,0.09
+13,Albania,Agree,participateInCompetitions,Often_percentage,0.22
+14,Albania,Agree,participateInCompetitions,Sometimes_percentage,0.41
+15,Albania,Agree,participateInCompetitions,Rarely_percentage,0.28
+16,Albania,Agree,participateInMathClub,always_percentage,0.06
+17,Albania,Agree,participateInMathClub,Often_percentage,0.17
+18,Albania,Agree,participateInMathClub,Sometimes_percentage,0.27
+19,Albania,Agree,participateInMathClub,Rarely_percentage,0.5
+20,Albania,Agree,playChess,always_percentage,0.11
+21,Albania,Agree,playChess,Often_percentage,0.22
+22,Albania,Agree,playChess,Sometimes_percentage,0.21
+23,Albania,Agree,playChess,Rarely_percentage,0.47
+24,Albania,Agree,studyMoreThan2ExtraHoursADay,always_percentage,0.09
+25,Albania,Agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.23
+26,Albania,Agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.33
+27,Albania,Agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.34
+28,Albania,Agree,talkAboutMaths,always_percentage,0.18
+29,Albania,Agree,talkAboutMaths,Often_percentage,0.5
+30,Albania,Agree,talkAboutMaths,Sometimes_percentage,0.26
+31,Albania,Agree,talkAboutMaths,Rarely_percentage,0.05
+32,Albania,Disagree,computerProgramming,always_percentage,0.12
+33,Albania,Disagree,computerProgramming,Often_percentage,0.2
+34,Albania,Disagree,computerProgramming,Sometimes_percentage,0.26
+35,Albania,Disagree,computerProgramming,Rarely_percentage,0.42
+36,Albania,Disagree,extracurricularActivity,always_percentage,0.04
+37,Albania,Disagree,extracurricularActivity,Often_percentage,0.14
+38,Albania,Disagree,extracurricularActivity,Sometimes_percentage,0.42
+39,Albania,Disagree,extracurricularActivity,Rarely_percentage,0.41
+40,Albania,Disagree,helpFriendsMaths,always_percentage,0.05
+41,Albania,Disagree,helpFriendsMaths,Often_percentage,0.25
+42,Albania,Disagree,helpFriendsMaths,Sometimes_percentage,0.49
+43,Albania,Disagree,helpFriendsMaths,Rarely_percentage,0.21
+44,Albania,Disagree,participateInCompetitions,always_percentage,0.02
+45,Albania,Disagree,participateInCompetitions,Often_percentage,0.09
+46,Albania,Disagree,participateInCompetitions,Sometimes_percentage,0.32
+47,Albania,Disagree,participateInCompetitions,Rarely_percentage,0.57
+48,Albania,Disagree,participateInMathClub,always_percentage,0.04
+49,Albania,Disagree,participateInMathClub,Often_percentage,0.08
+50,Albania,Disagree,participateInMathClub,Sometimes_percentage,0.15
+51,Albania,Disagree,participateInMathClub,Rarely_percentage,0.73
+52,Albania,Disagree,playChess,always_percentage,0.06
+53,Albania,Disagree,playChess,Often_percentage,0.2
+54,Albania,Disagree,playChess,Sometimes_percentage,0.32
+55,Albania,Disagree,playChess,Rarely_percentage,0.42
+56,Albania,Disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.04
+57,Albania,Disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.11
+58,Albania,Disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.3
+59,Albania,Disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.55
+60,Albania,Disagree,talkAboutMaths,always_percentage,0.11
+61,Albania,Disagree,talkAboutMaths,Often_percentage,0.37
+62,Albania,Disagree,talkAboutMaths,Sometimes_percentage,0.42
+63,Albania,Disagree,talkAboutMaths,Rarely_percentage,0.1
+64,Albania,Strongly agree,computerProgramming,always_percentage,0.21
+65,Albania,Strongly agree,computerProgramming,Often_percentage,0.17
+66,Albania,Strongly agree,computerProgramming,Sometimes_percentage,0.24
+67,Albania,Strongly agree,computerProgramming,Rarely_percentage,0.38
+68,Albania,Strongly agree,extracurricularActivity,always_percentage,0.21
+69,Albania,Strongly agree,extracurricularActivity,Often_percentage,0.26
+70,Albania,Strongly agree,extracurricularActivity,Sometimes_percentage,0.32
+71,Albania,Strongly agree,extracurricularActivity,Rarely_percentage,0.2
+72,Albania,Strongly agree,helpFriendsMaths,always_percentage,0.36
+73,Albania,Strongly agree,helpFriendsMaths,Often_percentage,0.46
+74,Albania,Strongly agree,helpFriendsMaths,Sometimes_percentage,0.14
+75,Albania,Strongly agree,helpFriendsMaths,Rarely_percentage,0.04
+76,Albania,Strongly agree,participateInCompetitions,always_percentage,0.33
+77,Albania,Strongly agree,participateInCompetitions,Often_percentage,0.34
+78,Albania,Strongly agree,participateInCompetitions,Sometimes_percentage,0.18
+79,Albania,Strongly agree,participateInCompetitions,Rarely_percentage,0.14
+80,Albania,Strongly agree,participateInMathClub,always_percentage,0.24
+81,Albania,Strongly agree,participateInMathClub,Often_percentage,0.17
+82,Albania,Strongly agree,participateInMathClub,Sometimes_percentage,0.24
+83,Albania,Strongly agree,participateInMathClub,Rarely_percentage,0.35
+84,Albania,Strongly agree,playChess,always_percentage,0.21
+85,Albania,Strongly agree,playChess,Often_percentage,0.18
+86,Albania,Strongly agree,playChess,Sometimes_percentage,0.21
+87,Albania,Strongly agree,playChess,Rarely_percentage,0.4
+88,Albania,Strongly agree,studyMoreThan2ExtraHoursADay,always_percentage,0.29
+89,Albania,Strongly agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.21
+90,Albania,Strongly agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.23
+91,Albania,Strongly agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.27
+92,Albania,Strongly agree,talkAboutMaths,always_percentage,0.39
+93,Albania,Strongly agree,talkAboutMaths,Often_percentage,0.43
+94,Albania,Strongly agree,talkAboutMaths,Sometimes_percentage,0.17
+95,Albania,Strongly agree,talkAboutMaths,Rarely_percentage,0.01
+96,Albania,Strongly disagree,computerProgramming,always_percentage,0.18
+97,Albania,Strongly disagree,computerProgramming,Often_percentage,0.18
+98,Albania,Strongly disagree,computerProgramming,Sometimes_percentage,0.2
+99,Albania,Strongly disagree,computerProgramming,Rarely_percentage,0.43
+100,Albania,Strongly disagree,extracurricularActivity,always_percentage,0.02
+101,Albania,Strongly disagree,extracurricularActivity,Often_percentage,0.22
+102,Albania,Strongly disagree,extracurricularActivity,Sometimes_percentage,0.2
+103,Albania,Strongly disagree,extracurricularActivity,Rarely_percentage,0.56
+104,Albania,Strongly disagree,helpFriendsMaths,always_percentage,0.07
+105,Albania,Strongly disagree,helpFriendsMaths,Often_percentage,0.25
+106,Albania,Strongly disagree,helpFriendsMaths,Sometimes_percentage,0.23
+107,Albania,Strongly disagree,helpFriendsMaths,Rarely_percentage,0.45
+108,Albania,Strongly disagree,participateInCompetitions,always_percentage,0.09
+109,Albania,Strongly disagree,participateInCompetitions,Often_percentage,0.11
+110,Albania,Strongly disagree,participateInCompetitions,Sometimes_percentage,0.27
+111,Albania,Strongly disagree,participateInCompetitions,Rarely_percentage,0.52
+112,Albania,Strongly disagree,participateInMathClub,always_percentage,0.07
+113,Albania,Strongly disagree,participateInMathClub,Often_percentage,0.09
+114,Albania,Strongly disagree,participateInMathClub,Sometimes_percentage,0.07
+115,Albania,Strongly disagree,participateInMathClub,Rarely_percentage,0.77
+116,Albania,Strongly disagree,playChess,always_percentage,0.11
+117,Albania,Strongly disagree,playChess,Often_percentage,0.18
+118,Albania,Strongly disagree,playChess,Sometimes_percentage,0.18
+119,Albania,Strongly disagree,playChess,Rarely_percentage,0.53
+120,Albania,Strongly disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.02
+121,Albania,Strongly disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.11
+122,Albania,Strongly disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.2
+123,Albania,Strongly disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.67
+124,Albania,Strongly disagree,talkAboutMaths,always_percentage,0.2
+125,Albania,Strongly disagree,talkAboutMaths,Often_percentage,0.25
+126,Albania,Strongly disagree,talkAboutMaths,Sometimes_percentage,0.3
+127,Albania,Strongly disagree,talkAboutMaths,Rarely_percentage,0.25
+128,Argentina,Agree,computerProgramming,always_percentage,0.09
+129,Argentina,Agree,computerProgramming,Often_percentage,0.17
+130,Argentina,Agree,computerProgramming,Sometimes_percentage,0.2
+131,Argentina,Agree,computerProgramming,Rarely_percentage,0.55
+132,Argentina,Agree,extracurricularActivity,always_percentage,0.06
+133,Argentina,Agree,extracurricularActivity,Often_percentage,0.21
+134,Argentina,Agree,extracurricularActivity,Sometimes_percentage,0.32
+135,Argentina,Agree,extracurricularActivity,Rarely_percentage,0.41
+136,Argentina,Agree,helpFriendsMaths,always_percentage,0.08
+137,Argentina,Agree,helpFriendsMaths,Often_percentage,0.34
+138,Argentina,Agree,helpFriendsMaths,Sometimes_percentage,0.4
+139,Argentina,Agree,helpFriendsMaths,Rarely_percentage,0.19
+140,Argentina,Agree,participateInCompetitions,always_percentage,0.05
+141,Argentina,Agree,participateInCompetitions,Often_percentage,0.1
+142,Argentina,Agree,participateInCompetitions,Sometimes_percentage,0.15
+143,Argentina,Agree,participateInCompetitions,Rarely_percentage,0.71
+144,Argentina,Agree,participateInMathClub,always_percentage,0.03
+145,Argentina,Agree,participateInMathClub,Often_percentage,0.08
+146,Argentina,Agree,participateInMathClub,Sometimes_percentage,0.1
+147,Argentina,Agree,participateInMathClub,Rarely_percentage,0.8
+148,Argentina,Agree,playChess,always_percentage,0.09
+149,Argentina,Agree,playChess,Often_percentage,0.16
+150,Argentina,Agree,playChess,Sometimes_percentage,0.19
+151,Argentina,Agree,playChess,Rarely_percentage,0.56
+152,Argentina,Agree,studyMoreThan2ExtraHoursADay,always_percentage,0.04
+153,Argentina,Agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.13
+154,Argentina,Agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.29
+155,Argentina,Agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.54
+156,Argentina,Agree,talkAboutMaths,always_percentage,0.12
+157,Argentina,Agree,talkAboutMaths,Often_percentage,0.19
+158,Argentina,Agree,talkAboutMaths,Sometimes_percentage,0.28
+159,Argentina,Agree,talkAboutMaths,Rarely_percentage,0.4
+160,Argentina,Disagree,computerProgramming,always_percentage,0.07
+161,Argentina,Disagree,computerProgramming,Often_percentage,0.11
+162,Argentina,Disagree,computerProgramming,Sometimes_percentage,0.23
+163,Argentina,Disagree,computerProgramming,Rarely_percentage,0.59
+164,Argentina,Disagree,extracurricularActivity,always_percentage,0.06
+165,Argentina,Disagree,extracurricularActivity,Often_percentage,0.14
+166,Argentina,Disagree,extracurricularActivity,Sometimes_percentage,0.32
+167,Argentina,Disagree,extracurricularActivity,Rarely_percentage,0.48
+168,Argentina,Disagree,helpFriendsMaths,always_percentage,0.03
+169,Argentina,Disagree,helpFriendsMaths,Often_percentage,0.13
+170,Argentina,Disagree,helpFriendsMaths,Sometimes_percentage,0.39
+171,Argentina,Disagree,helpFriendsMaths,Rarely_percentage,0.45
+172,Argentina,Disagree,participateInCompetitions,always_percentage,0.02
+173,Argentina,Disagree,participateInCompetitions,Often_percentage,0.06
+174,Argentina,Disagree,participateInCompetitions,Sometimes_percentage,0.1
+175,Argentina,Disagree,participateInCompetitions,Rarely_percentage,0.82
+176,Argentina,Disagree,participateInMathClub,always_percentage,0.02
+177,Argentina,Disagree,participateInMathClub,Often_percentage,0.03
+178,Argentina,Disagree,participateInMathClub,Sometimes_percentage,0.07
+179,Argentina,Disagree,participateInMathClub,Rarely_percentage,0.89
+180,Argentina,Disagree,playChess,always_percentage,0.06
+181,Argentina,Disagree,playChess,Often_percentage,0.12
+182,Argentina,Disagree,playChess,Sometimes_percentage,0.2
+183,Argentina,Disagree,playChess,Rarely_percentage,0.62
+184,Argentina,Disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.04
+185,Argentina,Disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.05
+186,Argentina,Disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.26
+187,Argentina,Disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.65
+188,Argentina,Disagree,talkAboutMaths,always_percentage,0.07
+189,Argentina,Disagree,talkAboutMaths,Often_percentage,0.14
+190,Argentina,Disagree,talkAboutMaths,Sometimes_percentage,0.31
+191,Argentina,Disagree,talkAboutMaths,Rarely_percentage,0.48
+192,Argentina,Strongly agree,computerProgramming,always_percentage,0.19
+193,Argentina,Strongly agree,computerProgramming,Often_percentage,0.12
+194,Argentina,Strongly agree,computerProgramming,Sometimes_percentage,0.17
+195,Argentina,Strongly agree,computerProgramming,Rarely_percentage,0.52
+196,Argentina,Strongly agree,extracurricularActivity,always_percentage,0.18
+197,Argentina,Strongly agree,extracurricularActivity,Often_percentage,0.19
+198,Argentina,Strongly agree,extracurricularActivity,Sometimes_percentage,0.24
+199,Argentina,Strongly agree,extracurricularActivity,Rarely_percentage,0.39
+200,Argentina,Strongly agree,helpFriendsMaths,always_percentage,0.31
+201,Argentina,Strongly agree,helpFriendsMaths,Often_percentage,0.34
+202,Argentina,Strongly agree,helpFriendsMaths,Sometimes_percentage,0.24
+203,Argentina,Strongly agree,helpFriendsMaths,Rarely_percentage,0.11
+204,Argentina,Strongly agree,participateInCompetitions,always_percentage,0.15
+205,Argentina,Strongly agree,participateInCompetitions,Often_percentage,0.1
+206,Argentina,Strongly agree,participateInCompetitions,Sometimes_percentage,0.09
+207,Argentina,Strongly agree,participateInCompetitions,Rarely_percentage,0.65
+208,Argentina,Strongly agree,participateInMathClub,always_percentage,0.12
+209,Argentina,Strongly agree,participateInMathClub,Often_percentage,0.08
+210,Argentina,Strongly agree,participateInMathClub,Sometimes_percentage,0.04
+211,Argentina,Strongly agree,participateInMathClub,Rarely_percentage,0.76
+212,Argentina,Strongly agree,playChess,always_percentage,0.19
+213,Argentina,Strongly agree,playChess,Often_percentage,0.11
+214,Argentina,Strongly agree,playChess,Sometimes_percentage,0.15
+215,Argentina,Strongly agree,playChess,Rarely_percentage,0.55
+216,Argentina,Strongly agree,studyMoreThan2ExtraHoursADay,always_percentage,0.17
+217,Argentina,Strongly agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.13
+218,Argentina,Strongly agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.21
+219,Argentina,Strongly agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.49
+220,Argentina,Strongly agree,talkAboutMaths,always_percentage,0.24
+221,Argentina,Strongly agree,talkAboutMaths,Often_percentage,0.19
+222,Argentina,Strongly agree,talkAboutMaths,Sometimes_percentage,0.24
+223,Argentina,Strongly agree,talkAboutMaths,Rarely_percentage,0.33
+224,Argentina,Strongly disagree,computerProgramming,always_percentage,0.09
+225,Argentina,Strongly disagree,computerProgramming,Often_percentage,0.18
+226,Argentina,Strongly disagree,computerProgramming,Sometimes_percentage,0.14
+227,Argentina,Strongly disagree,computerProgramming,Rarely_percentage,0.59
+228,Argentina,Strongly disagree,extracurricularActivity,always_percentage,0.05
+229,Argentina,Strongly disagree,extracurricularActivity,Often_percentage,0.14
+230,Argentina,Strongly disagree,extracurricularActivity,Sometimes_percentage,0.21
+231,Argentina,Strongly disagree,extracurricularActivity,Rarely_percentage,0.6
+232,Argentina,Strongly disagree,helpFriendsMaths,always_percentage,0.03
+233,Argentina,Strongly disagree,helpFriendsMaths,Often_percentage,0.09
+234,Argentina,Strongly disagree,helpFriendsMaths,Sometimes_percentage,0.17
+235,Argentina,Strongly disagree,helpFriendsMaths,Rarely_percentage,0.72
+236,Argentina,Strongly disagree,participateInCompetitions,always_percentage,0.02
+237,Argentina,Strongly disagree,participateInCompetitions,Often_percentage,0.04
+238,Argentina,Strongly disagree,participateInCompetitions,Sometimes_percentage,0.07
+239,Argentina,Strongly disagree,participateInCompetitions,Rarely_percentage,0.87
+240,Argentina,Strongly disagree,participateInMathClub,always_percentage,0.04
+241,Argentina,Strongly disagree,participateInMathClub,Often_percentage,0.03
+242,Argentina,Strongly disagree,participateInMathClub,Sometimes_percentage,0.04
+243,Argentina,Strongly disagree,participateInMathClub,Rarely_percentage,0.9
+244,Argentina,Strongly disagree,playChess,always_percentage,0.11
+245,Argentina,Strongly disagree,playChess,Often_percentage,0.1
+246,Argentina,Strongly disagree,playChess,Sometimes_percentage,0.17
+247,Argentina,Strongly disagree,playChess,Rarely_percentage,0.61
+248,Argentina,Strongly disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.05
+249,Argentina,Strongly disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.1
+250,Argentina,Strongly disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.12
+251,Argentina,Strongly disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.74
+252,Argentina,Strongly disagree,talkAboutMaths,always_percentage,0.09
+253,Argentina,Strongly disagree,talkAboutMaths,Often_percentage,0.11
+254,Argentina,Strongly disagree,talkAboutMaths,Sometimes_percentage,0.2
+255,Argentina,Strongly disagree,talkAboutMaths,Rarely_percentage,0.6
+256,Australia,Agree,computerProgramming,always_percentage,0.02
+257,Australia,Agree,computerProgramming,Often_percentage,0.08
+258,Australia,Agree,computerProgramming,Sometimes_percentage,0.18
+259,Australia,Agree,computerProgramming,Rarely_percentage,0.72
+260,Australia,Agree,extracurricularActivity,always_percentage,0.01
+261,Australia,Agree,extracurricularActivity,Often_percentage,0.07
+262,Australia,Agree,extracurricularActivity,Sometimes_percentage,0.2
+263,Australia,Agree,extracurricularActivity,Rarely_percentage,0.71
+264,Australia,Agree,helpFriendsMaths,always_percentage,0.05
+265,Australia,Agree,helpFriendsMaths,Often_percentage,0.27
+266,Australia,Agree,helpFriendsMaths,Sometimes_percentage,0.49
+267,Australia,Agree,helpFriendsMaths,Rarely_percentage,0.19
+268,Australia,Agree,participateInCompetitions,always_percentage,0.02
+269,Australia,Agree,participateInCompetitions,Often_percentage,0.07
+270,Australia,Agree,participateInCompetitions,Sometimes_percentage,0.19
+271,Australia,Agree,participateInCompetitions,Rarely_percentage,0.72
+272,Australia,Agree,participateInMathClub,always_percentage,0.0
+273,Australia,Agree,participateInMathClub,Often_percentage,0.02
+274,Australia,Agree,participateInMathClub,Sometimes_percentage,0.04
+275,Australia,Agree,participateInMathClub,Rarely_percentage,0.94
+276,Australia,Agree,playChess,always_percentage,0.03
+277,Australia,Agree,playChess,Often_percentage,0.08
+278,Australia,Agree,playChess,Sometimes_percentage,0.22
+279,Australia,Agree,playChess,Rarely_percentage,0.67
+280,Australia,Agree,studyMoreThan2ExtraHoursADay,always_percentage,0.01
+281,Australia,Agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.05
+282,Australia,Agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.2
+283,Australia,Agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.73
+284,Australia,Agree,talkAboutMaths,always_percentage,0.03
+285,Australia,Agree,talkAboutMaths,Often_percentage,0.14
+286,Australia,Agree,talkAboutMaths,Sometimes_percentage,0.35
+287,Australia,Agree,talkAboutMaths,Rarely_percentage,0.48
+288,Australia,Disagree,computerProgramming,always_percentage,0.03
+289,Australia,Disagree,computerProgramming,Often_percentage,0.07
+290,Australia,Disagree,computerProgramming,Sometimes_percentage,0.15
+291,Australia,Disagree,computerProgramming,Rarely_percentage,0.75
+292,Australia,Disagree,extracurricularActivity,always_percentage,0.01
+293,Australia,Disagree,extracurricularActivity,Often_percentage,0.04
+294,Australia,Disagree,extracurricularActivity,Sometimes_percentage,0.15
+295,Australia,Disagree,extracurricularActivity,Rarely_percentage,0.81
+296,Australia,Disagree,helpFriendsMaths,always_percentage,0.02
+297,Australia,Disagree,helpFriendsMaths,Often_percentage,0.12
+298,Australia,Disagree,helpFriendsMaths,Sometimes_percentage,0.46
+299,Australia,Disagree,helpFriendsMaths,Rarely_percentage,0.4
+300,Australia,Disagree,participateInCompetitions,always_percentage,0.01
+301,Australia,Disagree,participateInCompetitions,Often_percentage,0.03
+302,Australia,Disagree,participateInCompetitions,Sometimes_percentage,0.1
+303,Australia,Disagree,participateInCompetitions,Rarely_percentage,0.86
+304,Australia,Disagree,participateInMathClub,always_percentage,0.0
+305,Australia,Disagree,participateInMathClub,Often_percentage,0.01
+306,Australia,Disagree,participateInMathClub,Sometimes_percentage,0.03
+307,Australia,Disagree,participateInMathClub,Rarely_percentage,0.96
+308,Australia,Disagree,playChess,always_percentage,0.02
+309,Australia,Disagree,playChess,Often_percentage,0.07
+310,Australia,Disagree,playChess,Sometimes_percentage,0.19
+311,Australia,Disagree,playChess,Rarely_percentage,0.72
+312,Australia,Disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.01
+313,Australia,Disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.03
+314,Australia,Disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.14
+315,Australia,Disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.82
+316,Australia,Disagree,talkAboutMaths,always_percentage,0.02
+317,Australia,Disagree,talkAboutMaths,Often_percentage,0.09
+318,Australia,Disagree,talkAboutMaths,Sometimes_percentage,0.28
+319,Australia,Disagree,talkAboutMaths,Rarely_percentage,0.61
+320,Australia,Strongly agree,computerProgramming,always_percentage,0.08
+321,Australia,Strongly agree,computerProgramming,Often_percentage,0.08
+322,Australia,Strongly agree,computerProgramming,Sometimes_percentage,0.17
+323,Australia,Strongly agree,computerProgramming,Rarely_percentage,0.67
+324,Australia,Strongly agree,extracurricularActivity,always_percentage,0.08
+325,Australia,Strongly agree,extracurricularActivity,Often_percentage,0.1
+326,Australia,Strongly agree,extracurricularActivity,Sometimes_percentage,0.22
+327,Australia,Strongly agree,extracurricularActivity,Rarely_percentage,0.59
+328,Australia,Strongly agree,helpFriendsMaths,always_percentage,0.22
+329,Australia,Strongly agree,helpFriendsMaths,Often_percentage,0.39
+330,Australia,Strongly agree,helpFriendsMaths,Sometimes_percentage,0.3
+331,Australia,Strongly agree,helpFriendsMaths,Rarely_percentage,0.1
+332,Australia,Strongly agree,participateInCompetitions,always_percentage,0.11
+333,Australia,Strongly agree,participateInCompetitions,Often_percentage,0.17
+334,Australia,Strongly agree,participateInCompetitions,Sometimes_percentage,0.23
+335,Australia,Strongly agree,participateInCompetitions,Rarely_percentage,0.49
+336,Australia,Strongly agree,participateInMathClub,always_percentage,0.03
+337,Australia,Strongly agree,participateInMathClub,Often_percentage,0.02
+338,Australia,Strongly agree,participateInMathClub,Sometimes_percentage,0.05
+339,Australia,Strongly agree,participateInMathClub,Rarely_percentage,0.9
+340,Australia,Strongly agree,playChess,always_percentage,0.07
+341,Australia,Strongly agree,playChess,Often_percentage,0.1
+342,Australia,Strongly agree,playChess,Sometimes_percentage,0.22
+343,Australia,Strongly agree,playChess,Rarely_percentage,0.62
+344,Australia,Strongly agree,studyMoreThan2ExtraHoursADay,always_percentage,0.07
+345,Australia,Strongly agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.08
+346,Australia,Strongly agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.24
+347,Australia,Strongly agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.61
+348,Australia,Strongly agree,talkAboutMaths,always_percentage,0.09
+349,Australia,Strongly agree,talkAboutMaths,Often_percentage,0.21
+350,Australia,Strongly agree,talkAboutMaths,Sometimes_percentage,0.34
+351,Australia,Strongly agree,talkAboutMaths,Rarely_percentage,0.36
+352,Australia,Strongly disagree,computerProgramming,always_percentage,0.04
+353,Australia,Strongly disagree,computerProgramming,Often_percentage,0.05
+354,Australia,Strongly disagree,computerProgramming,Sometimes_percentage,0.13
+355,Australia,Strongly disagree,computerProgramming,Rarely_percentage,0.78
+356,Australia,Strongly disagree,extracurricularActivity,always_percentage,0.01
+357,Australia,Strongly disagree,extracurricularActivity,Often_percentage,0.03
+358,Australia,Strongly disagree,extracurricularActivity,Sometimes_percentage,0.08
+359,Australia,Strongly disagree,extracurricularActivity,Rarely_percentage,0.89
+360,Australia,Strongly disagree,helpFriendsMaths,always_percentage,0.02
+361,Australia,Strongly disagree,helpFriendsMaths,Often_percentage,0.06
+362,Australia,Strongly disagree,helpFriendsMaths,Sometimes_percentage,0.24
+363,Australia,Strongly disagree,helpFriendsMaths,Rarely_percentage,0.69
+364,Australia,Strongly disagree,participateInCompetitions,always_percentage,0.01
+365,Australia,Strongly disagree,participateInCompetitions,Often_percentage,0.01
+366,Australia,Strongly disagree,participateInCompetitions,Sometimes_percentage,0.04
+367,Australia,Strongly disagree,participateInCompetitions,Rarely_percentage,0.94
+368,Australia,Strongly disagree,participateInMathClub,always_percentage,0.01
+369,Australia,Strongly disagree,participateInMathClub,Often_percentage,0.02
+370,Australia,Strongly disagree,participateInMathClub,Sometimes_percentage,0.01
+371,Australia,Strongly disagree,participateInMathClub,Rarely_percentage,0.96
+372,Australia,Strongly disagree,playChess,always_percentage,0.02
+373,Australia,Strongly disagree,playChess,Often_percentage,0.07
+374,Australia,Strongly disagree,playChess,Sometimes_percentage,0.11
+375,Australia,Strongly disagree,playChess,Rarely_percentage,0.79
+376,Australia,Strongly disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.01
+377,Australia,Strongly disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.01
+378,Australia,Strongly disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.08
+379,Australia,Strongly disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.9
+380,Australia,Strongly disagree,talkAboutMaths,always_percentage,0.03
+381,Australia,Strongly disagree,talkAboutMaths,Often_percentage,0.08
+382,Australia,Strongly disagree,talkAboutMaths,Sometimes_percentage,0.17
+383,Australia,Strongly disagree,talkAboutMaths,Rarely_percentage,0.72
+384,Austria,Agree,computerProgramming,always_percentage,0.03
+385,Austria,Agree,computerProgramming,Often_percentage,0.09
+386,Austria,Agree,computerProgramming,Sometimes_percentage,0.19
+387,Austria,Agree,computerProgramming,Rarely_percentage,0.69
+388,Austria,Agree,extracurricularActivity,always_percentage,0.02
+389,Austria,Agree,extracurricularActivity,Often_percentage,0.13
+390,Austria,Agree,extracurricularActivity,Sometimes_percentage,0.45
+391,Austria,Agree,extracurricularActivity,Rarely_percentage,0.39
+392,Austria,Agree,helpFriendsMaths,always_percentage,0.06
+393,Austria,Agree,helpFriendsMaths,Often_percentage,0.25
+394,Austria,Agree,helpFriendsMaths,Sometimes_percentage,0.48
+395,Austria,Agree,helpFriendsMaths,Rarely_percentage,0.21
+396,Austria,Agree,participateInCompetitions,always_percentage,0.01
+397,Austria,Agree,participateInCompetitions,Often_percentage,0.0
+398,Austria,Agree,participateInCompetitions,Sometimes_percentage,0.05
+399,Austria,Agree,participateInCompetitions,Rarely_percentage,0.93
+400,Austria,Agree,participateInMathClub,always_percentage,0.01
+401,Austria,Agree,participateInMathClub,Often_percentage,0.01
+402,Austria,Agree,participateInMathClub,Sometimes_percentage,0.01
+403,Austria,Agree,participateInMathClub,Rarely_percentage,0.97
+404,Austria,Agree,playChess,always_percentage,0.05
+405,Austria,Agree,playChess,Often_percentage,0.09
+406,Austria,Agree,playChess,Sometimes_percentage,0.23
+407,Austria,Agree,playChess,Rarely_percentage,0.63
+408,Austria,Agree,studyMoreThan2ExtraHoursADay,always_percentage,0.01
+409,Austria,Agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.03
+410,Austria,Agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.18
+411,Austria,Agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.78
+412,Austria,Agree,talkAboutMaths,always_percentage,0.03
+413,Austria,Agree,talkAboutMaths,Often_percentage,0.14
+414,Austria,Agree,talkAboutMaths,Sometimes_percentage,0.42
+415,Austria,Agree,talkAboutMaths,Rarely_percentage,0.41
+416,Austria,Disagree,computerProgramming,always_percentage,0.05
+417,Austria,Disagree,computerProgramming,Often_percentage,0.1
+418,Austria,Disagree,computerProgramming,Sometimes_percentage,0.18
+419,Austria,Disagree,computerProgramming,Rarely_percentage,0.68
+420,Austria,Disagree,extracurricularActivity,always_percentage,0.03
+421,Austria,Disagree,extracurricularActivity,Often_percentage,0.15
+422,Austria,Disagree,extracurricularActivity,Sometimes_percentage,0.41
+423,Austria,Disagree,extracurricularActivity,Rarely_percentage,0.41
+424,Austria,Disagree,helpFriendsMaths,always_percentage,0.02
+425,Austria,Disagree,helpFriendsMaths,Often_percentage,0.14
+426,Austria,Disagree,helpFriendsMaths,Sometimes_percentage,0.46
+427,Austria,Disagree,helpFriendsMaths,Rarely_percentage,0.38
+428,Austria,Disagree,participateInCompetitions,always_percentage,0.0
+429,Austria,Disagree,participateInCompetitions,Often_percentage,0.01
+430,Austria,Disagree,participateInCompetitions,Sometimes_percentage,0.04
+431,Austria,Disagree,participateInCompetitions,Rarely_percentage,0.94
+432,Austria,Disagree,participateInMathClub,always_percentage,0.0
+433,Austria,Disagree,participateInMathClub,Often_percentage,0.01
+434,Austria,Disagree,participateInMathClub,Sometimes_percentage,0.02
+435,Austria,Disagree,participateInMathClub,Rarely_percentage,0.97
+436,Austria,Disagree,playChess,always_percentage,0.04
+437,Austria,Disagree,playChess,Often_percentage,0.11
+438,Austria,Disagree,playChess,Sometimes_percentage,0.24
+439,Austria,Disagree,playChess,Rarely_percentage,0.61
+440,Austria,Disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.01
+441,Austria,Disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.03
+442,Austria,Disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.23
+443,Austria,Disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.72
+444,Austria,Disagree,talkAboutMaths,always_percentage,0.03
+445,Austria,Disagree,talkAboutMaths,Often_percentage,0.11
+446,Austria,Disagree,talkAboutMaths,Sometimes_percentage,0.4
+447,Austria,Disagree,talkAboutMaths,Rarely_percentage,0.46
+448,Austria,Strongly agree,computerProgramming,always_percentage,0.05
+449,Austria,Strongly agree,computerProgramming,Often_percentage,0.11
+450,Austria,Strongly agree,computerProgramming,Sometimes_percentage,0.15
+451,Austria,Strongly agree,computerProgramming,Rarely_percentage,0.69
+452,Austria,Strongly agree,extracurricularActivity,always_percentage,0.06
+453,Austria,Strongly agree,extracurricularActivity,Often_percentage,0.2
+454,Austria,Strongly agree,extracurricularActivity,Sometimes_percentage,0.37
+455,Austria,Strongly agree,extracurricularActivity,Rarely_percentage,0.37
+456,Austria,Strongly agree,helpFriendsMaths,always_percentage,0.15
+457,Austria,Strongly agree,helpFriendsMaths,Often_percentage,0.39
+458,Austria,Strongly agree,helpFriendsMaths,Sometimes_percentage,0.32
+459,Austria,Strongly agree,helpFriendsMaths,Rarely_percentage,0.14
+460,Austria,Strongly agree,participateInCompetitions,always_percentage,0.02
+461,Austria,Strongly agree,participateInCompetitions,Often_percentage,0.02
+462,Austria,Strongly agree,participateInCompetitions,Sometimes_percentage,0.09
+463,Austria,Strongly agree,participateInCompetitions,Rarely_percentage,0.87
+464,Austria,Strongly agree,participateInMathClub,always_percentage,0.01
+465,Austria,Strongly agree,participateInMathClub,Often_percentage,0.0
+466,Austria,Strongly agree,participateInMathClub,Sometimes_percentage,0.01
+467,Austria,Strongly agree,participateInMathClub,Rarely_percentage,0.98
+468,Austria,Strongly agree,playChess,always_percentage,0.05
+469,Austria,Strongly agree,playChess,Often_percentage,0.08
+470,Austria,Strongly agree,playChess,Sometimes_percentage,0.27
+471,Austria,Strongly agree,playChess,Rarely_percentage,0.6
+472,Austria,Strongly agree,studyMoreThan2ExtraHoursADay,always_percentage,0.02
+473,Austria,Strongly agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.04
+474,Austria,Strongly agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.17
+475,Austria,Strongly agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.78
+476,Austria,Strongly agree,talkAboutMaths,always_percentage,0.04
+477,Austria,Strongly agree,talkAboutMaths,Often_percentage,0.11
+478,Austria,Strongly agree,talkAboutMaths,Sometimes_percentage,0.42
+479,Austria,Strongly agree,talkAboutMaths,Rarely_percentage,0.43
+480,Austria,Strongly disagree,computerProgramming,always_percentage,0.07
+481,Austria,Strongly disagree,computerProgramming,Often_percentage,0.08
+482,Austria,Strongly disagree,computerProgramming,Sometimes_percentage,0.09
+483,Austria,Strongly disagree,computerProgramming,Rarely_percentage,0.75
+484,Austria,Strongly disagree,extracurricularActivity,always_percentage,0.03
+485,Austria,Strongly disagree,extracurricularActivity,Often_percentage,0.13
+486,Austria,Strongly disagree,extracurricularActivity,Sometimes_percentage,0.29
+487,Austria,Strongly disagree,extracurricularActivity,Rarely_percentage,0.54
+488,Austria,Strongly disagree,helpFriendsMaths,always_percentage,0.02
+489,Austria,Strongly disagree,helpFriendsMaths,Often_percentage,0.08
+490,Austria,Strongly disagree,helpFriendsMaths,Sometimes_percentage,0.25
+491,Austria,Strongly disagree,helpFriendsMaths,Rarely_percentage,0.65
+492,Austria,Strongly disagree,participateInCompetitions,always_percentage,0.01
+493,Austria,Strongly disagree,participateInCompetitions,Often_percentage,0.01
+494,Austria,Strongly disagree,participateInCompetitions,Sometimes_percentage,0.05
+495,Austria,Strongly disagree,participateInCompetitions,Rarely_percentage,0.94
+496,Austria,Strongly disagree,participateInMathClub,always_percentage,0.01
+497,Austria,Strongly disagree,participateInMathClub,Often_percentage,0.01
+498,Austria,Strongly disagree,participateInMathClub,Sometimes_percentage,0.01
+499,Austria,Strongly disagree,participateInMathClub,Rarely_percentage,0.97
+500,Austria,Strongly disagree,playChess,always_percentage,0.08
+501,Austria,Strongly disagree,playChess,Often_percentage,0.06
+502,Austria,Strongly disagree,playChess,Sometimes_percentage,0.23
+503,Austria,Strongly disagree,playChess,Rarely_percentage,0.63
+504,Austria,Strongly disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.02
+505,Austria,Strongly disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.06
+506,Austria,Strongly disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.13
+507,Austria,Strongly disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.79
+508,Austria,Strongly disagree,talkAboutMaths,always_percentage,0.04
+509,Austria,Strongly disagree,talkAboutMaths,Often_percentage,0.1
+510,Austria,Strongly disagree,talkAboutMaths,Sometimes_percentage,0.34
+511,Austria,Strongly disagree,talkAboutMaths,Rarely_percentage,0.53
+512,Belgium,Agree,computerProgramming,always_percentage,0.03
+513,Belgium,Agree,computerProgramming,Often_percentage,0.08
+514,Belgium,Agree,computerProgramming,Sometimes_percentage,0.18
+515,Belgium,Agree,computerProgramming,Rarely_percentage,0.72
+516,Belgium,Agree,extracurricularActivity,always_percentage,0.02
+517,Belgium,Agree,extracurricularActivity,Often_percentage,0.05
+518,Belgium,Agree,extracurricularActivity,Sometimes_percentage,0.18
+519,Belgium,Agree,extracurricularActivity,Rarely_percentage,0.75
+520,Belgium,Agree,helpFriendsMaths,always_percentage,0.04
+521,Belgium,Agree,helpFriendsMaths,Often_percentage,0.23
+522,Belgium,Agree,helpFriendsMaths,Sometimes_percentage,0.53
+523,Belgium,Agree,helpFriendsMaths,Rarely_percentage,0.2
+524,Belgium,Agree,participateInCompetitions,always_percentage,0.01
+525,Belgium,Agree,participateInCompetitions,Often_percentage,0.04
+526,Belgium,Agree,participateInCompetitions,Sometimes_percentage,0.1
+527,Belgium,Agree,participateInCompetitions,Rarely_percentage,0.85
+528,Belgium,Agree,participateInMathClub,always_percentage,0.01
+529,Belgium,Agree,participateInMathClub,Often_percentage,0.01
+530,Belgium,Agree,participateInMathClub,Sometimes_percentage,0.02
+531,Belgium,Agree,participateInMathClub,Rarely_percentage,0.96
+532,Belgium,Agree,playChess,always_percentage,0.02
+533,Belgium,Agree,playChess,Often_percentage,0.06
+534,Belgium,Agree,playChess,Sometimes_percentage,0.19
+535,Belgium,Agree,playChess,Rarely_percentage,0.74
+536,Belgium,Agree,studyMoreThan2ExtraHoursADay,always_percentage,0.01
+537,Belgium,Agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.05
+538,Belgium,Agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.23
+539,Belgium,Agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.71
+540,Belgium,Agree,talkAboutMaths,always_percentage,0.02
+541,Belgium,Agree,talkAboutMaths,Often_percentage,0.14
+542,Belgium,Agree,talkAboutMaths,Sometimes_percentage,0.41
+543,Belgium,Agree,talkAboutMaths,Rarely_percentage,0.43
+544,Belgium,Disagree,computerProgramming,always_percentage,0.02
+545,Belgium,Disagree,computerProgramming,Often_percentage,0.07
+546,Belgium,Disagree,computerProgramming,Sometimes_percentage,0.18
+547,Belgium,Disagree,computerProgramming,Rarely_percentage,0.73
+548,Belgium,Disagree,extracurricularActivity,always_percentage,0.02
+549,Belgium,Disagree,extracurricularActivity,Often_percentage,0.06
+550,Belgium,Disagree,extracurricularActivity,Sometimes_percentage,0.17
+551,Belgium,Disagree,extracurricularActivity,Rarely_percentage,0.75
+552,Belgium,Disagree,helpFriendsMaths,always_percentage,0.01
+553,Belgium,Disagree,helpFriendsMaths,Often_percentage,0.11
+554,Belgium,Disagree,helpFriendsMaths,Sometimes_percentage,0.47
+555,Belgium,Disagree,helpFriendsMaths,Rarely_percentage,0.41
+556,Belgium,Disagree,participateInCompetitions,always_percentage,0.01
+557,Belgium,Disagree,participateInCompetitions,Often_percentage,0.02
+558,Belgium,Disagree,participateInCompetitions,Sometimes_percentage,0.08
+559,Belgium,Disagree,participateInCompetitions,Rarely_percentage,0.89
+560,Belgium,Disagree,participateInMathClub,always_percentage,0.01
+561,Belgium,Disagree,participateInMathClub,Often_percentage,0.01
+562,Belgium,Disagree,participateInMathClub,Sometimes_percentage,0.02
+563,Belgium,Disagree,participateInMathClub,Rarely_percentage,0.97
+564,Belgium,Disagree,playChess,always_percentage,0.02
+565,Belgium,Disagree,playChess,Often_percentage,0.04
+566,Belgium,Disagree,playChess,Sometimes_percentage,0.18
+567,Belgium,Disagree,playChess,Rarely_percentage,0.76
+568,Belgium,Disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.01
+569,Belgium,Disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.04
+570,Belgium,Disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.25
+571,Belgium,Disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.7
+572,Belgium,Disagree,talkAboutMaths,always_percentage,0.03
+573,Belgium,Disagree,talkAboutMaths,Often_percentage,0.17
+574,Belgium,Disagree,talkAboutMaths,Sometimes_percentage,0.4
+575,Belgium,Disagree,talkAboutMaths,Rarely_percentage,0.4
+576,Belgium,Strongly agree,computerProgramming,always_percentage,0.05
+577,Belgium,Strongly agree,computerProgramming,Often_percentage,0.07
+578,Belgium,Strongly agree,computerProgramming,Sometimes_percentage,0.14
+579,Belgium,Strongly agree,computerProgramming,Rarely_percentage,0.74
+580,Belgium,Strongly agree,extracurricularActivity,always_percentage,0.06
+581,Belgium,Strongly agree,extracurricularActivity,Often_percentage,0.08
+582,Belgium,Strongly agree,extracurricularActivity,Sometimes_percentage,0.17
+583,Belgium,Strongly agree,extracurricularActivity,Rarely_percentage,0.68
+584,Belgium,Strongly agree,helpFriendsMaths,always_percentage,0.14
+585,Belgium,Strongly agree,helpFriendsMaths,Often_percentage,0.38
+586,Belgium,Strongly agree,helpFriendsMaths,Sometimes_percentage,0.37
+587,Belgium,Strongly agree,helpFriendsMaths,Rarely_percentage,0.11
+588,Belgium,Strongly agree,participateInCompetitions,always_percentage,0.05
+589,Belgium,Strongly agree,participateInCompetitions,Often_percentage,0.06
+590,Belgium,Strongly agree,participateInCompetitions,Sometimes_percentage,0.17
+591,Belgium,Strongly agree,participateInCompetitions,Rarely_percentage,0.73
+592,Belgium,Strongly agree,participateInMathClub,always_percentage,0.02
+593,Belgium,Strongly agree,participateInMathClub,Often_percentage,0.01
+594,Belgium,Strongly agree,participateInMathClub,Sometimes_percentage,0.02
+595,Belgium,Strongly agree,participateInMathClub,Rarely_percentage,0.95
+596,Belgium,Strongly agree,playChess,always_percentage,0.05
+597,Belgium,Strongly agree,playChess,Often_percentage,0.05
+598,Belgium,Strongly agree,playChess,Sometimes_percentage,0.21
+599,Belgium,Strongly agree,playChess,Rarely_percentage,0.7
+600,Belgium,Strongly agree,studyMoreThan2ExtraHoursADay,always_percentage,0.04
+601,Belgium,Strongly agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.03
+602,Belgium,Strongly agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.2
+603,Belgium,Strongly agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.73
+604,Belgium,Strongly agree,talkAboutMaths,always_percentage,0.07
+605,Belgium,Strongly agree,talkAboutMaths,Often_percentage,0.13
+606,Belgium,Strongly agree,talkAboutMaths,Sometimes_percentage,0.36
+607,Belgium,Strongly agree,talkAboutMaths,Rarely_percentage,0.44
+608,Belgium,Strongly disagree,computerProgramming,always_percentage,0.05
+609,Belgium,Strongly disagree,computerProgramming,Often_percentage,0.09
+610,Belgium,Strongly disagree,computerProgramming,Sometimes_percentage,0.17
+611,Belgium,Strongly disagree,computerProgramming,Rarely_percentage,0.69
+612,Belgium,Strongly disagree,extracurricularActivity,always_percentage,0.03
+613,Belgium,Strongly disagree,extracurricularActivity,Often_percentage,0.05
+614,Belgium,Strongly disagree,extracurricularActivity,Sometimes_percentage,0.12
+615,Belgium,Strongly disagree,extracurricularActivity,Rarely_percentage,0.79
+616,Belgium,Strongly disagree,helpFriendsMaths,always_percentage,0.01
+617,Belgium,Strongly disagree,helpFriendsMaths,Often_percentage,0.06
+618,Belgium,Strongly disagree,helpFriendsMaths,Sometimes_percentage,0.25
+619,Belgium,Strongly disagree,helpFriendsMaths,Rarely_percentage,0.68
+620,Belgium,Strongly disagree,participateInCompetitions,always_percentage,0.01
+621,Belgium,Strongly disagree,participateInCompetitions,Often_percentage,0.03
+622,Belgium,Strongly disagree,participateInCompetitions,Sometimes_percentage,0.05
+623,Belgium,Strongly disagree,participateInCompetitions,Rarely_percentage,0.91
+624,Belgium,Strongly disagree,participateInMathClub,always_percentage,0.01
+625,Belgium,Strongly disagree,participateInMathClub,Often_percentage,0.02
+626,Belgium,Strongly disagree,participateInMathClub,Sometimes_percentage,0.02
+627,Belgium,Strongly disagree,participateInMathClub,Rarely_percentage,0.95
+628,Belgium,Strongly disagree,playChess,always_percentage,0.04
+629,Belgium,Strongly disagree,playChess,Often_percentage,0.04
+630,Belgium,Strongly disagree,playChess,Sometimes_percentage,0.21
+631,Belgium,Strongly disagree,playChess,Rarely_percentage,0.72
+632,Belgium,Strongly disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.03
+633,Belgium,Strongly disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.04
+634,Belgium,Strongly disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.2
+635,Belgium,Strongly disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.73
+636,Belgium,Strongly disagree,talkAboutMaths,always_percentage,0.05
+637,Belgium,Strongly disagree,talkAboutMaths,Often_percentage,0.14
+638,Belgium,Strongly disagree,talkAboutMaths,Sometimes_percentage,0.3
+639,Belgium,Strongly disagree,talkAboutMaths,Rarely_percentage,0.51
+640,Brazil,Agree,computerProgramming,always_percentage,0.07
+641,Brazil,Agree,computerProgramming,Often_percentage,0.1
+642,Brazil,Agree,computerProgramming,Sometimes_percentage,0.16
+643,Brazil,Agree,computerProgramming,Rarely_percentage,0.67
+644,Brazil,Agree,extracurricularActivity,always_percentage,0.1
+645,Brazil,Agree,extracurricularActivity,Often_percentage,0.23
+646,Brazil,Agree,extracurricularActivity,Sometimes_percentage,0.42
+647,Brazil,Agree,extracurricularActivity,Rarely_percentage,0.25
+648,Brazil,Agree,helpFriendsMaths,always_percentage,0.13
+649,Brazil,Agree,helpFriendsMaths,Often_percentage,0.35
+650,Brazil,Agree,helpFriendsMaths,Sometimes_percentage,0.43
+651,Brazil,Agree,helpFriendsMaths,Rarely_percentage,0.09
+652,Brazil,Agree,participateInCompetitions,always_percentage,0.07
+653,Brazil,Agree,participateInCompetitions,Often_percentage,0.14
+654,Brazil,Agree,participateInCompetitions,Sometimes_percentage,0.26
+655,Brazil,Agree,participateInCompetitions,Rarely_percentage,0.52
+656,Brazil,Agree,participateInMathClub,always_percentage,0.04
+657,Brazil,Agree,participateInMathClub,Often_percentage,0.06
+658,Brazil,Agree,participateInMathClub,Sometimes_percentage,0.09
+659,Brazil,Agree,participateInMathClub,Rarely_percentage,0.82
+660,Brazil,Agree,playChess,always_percentage,0.08
+661,Brazil,Agree,playChess,Often_percentage,0.16
+662,Brazil,Agree,playChess,Sometimes_percentage,0.22
+663,Brazil,Agree,playChess,Rarely_percentage,0.54
+664,Brazil,Agree,studyMoreThan2ExtraHoursADay,always_percentage,0.07
+665,Brazil,Agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.12
+666,Brazil,Agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.34
+667,Brazil,Agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.47
+668,Brazil,Agree,talkAboutMaths,always_percentage,0.17
+669,Brazil,Agree,talkAboutMaths,Often_percentage,0.28
+670,Brazil,Agree,talkAboutMaths,Sometimes_percentage,0.4
+671,Brazil,Agree,talkAboutMaths,Rarely_percentage,0.14
+672,Brazil,Disagree,computerProgramming,always_percentage,0.05
+673,Brazil,Disagree,computerProgramming,Often_percentage,0.08
+674,Brazil,Disagree,computerProgramming,Sometimes_percentage,0.16
+675,Brazil,Disagree,computerProgramming,Rarely_percentage,0.7
+676,Brazil,Disagree,extracurricularActivity,always_percentage,0.06
+677,Brazil,Disagree,extracurricularActivity,Often_percentage,0.16
+678,Brazil,Disagree,extracurricularActivity,Sometimes_percentage,0.37
+679,Brazil,Disagree,extracurricularActivity,Rarely_percentage,0.41
+680,Brazil,Disagree,helpFriendsMaths,always_percentage,0.06
+681,Brazil,Disagree,helpFriendsMaths,Often_percentage,0.2
+682,Brazil,Disagree,helpFriendsMaths,Sometimes_percentage,0.43
+683,Brazil,Disagree,helpFriendsMaths,Rarely_percentage,0.31
+684,Brazil,Disagree,participateInCompetitions,always_percentage,0.03
+685,Brazil,Disagree,participateInCompetitions,Often_percentage,0.08
+686,Brazil,Disagree,participateInCompetitions,Sometimes_percentage,0.21
+687,Brazil,Disagree,participateInCompetitions,Rarely_percentage,0.68
+688,Brazil,Disagree,participateInMathClub,always_percentage,0.02
+689,Brazil,Disagree,participateInMathClub,Often_percentage,0.04
+690,Brazil,Disagree,participateInMathClub,Sometimes_percentage,0.06
+691,Brazil,Disagree,participateInMathClub,Rarely_percentage,0.88
+692,Brazil,Disagree,playChess,always_percentage,0.06
+693,Brazil,Disagree,playChess,Often_percentage,0.11
+694,Brazil,Disagree,playChess,Sometimes_percentage,0.21
+695,Brazil,Disagree,playChess,Rarely_percentage,0.62
+696,Brazil,Disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.05
+697,Brazil,Disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.09
+698,Brazil,Disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.28
+699,Brazil,Disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.58
+700,Brazil,Disagree,talkAboutMaths,always_percentage,0.14
+701,Brazil,Disagree,talkAboutMaths,Often_percentage,0.28
+702,Brazil,Disagree,talkAboutMaths,Sometimes_percentage,0.37
+703,Brazil,Disagree,talkAboutMaths,Rarely_percentage,0.21
+704,Brazil,Strongly agree,computerProgramming,always_percentage,0.16
+705,Brazil,Strongly agree,computerProgramming,Often_percentage,0.13
+706,Brazil,Strongly agree,computerProgramming,Sometimes_percentage,0.14
+707,Brazil,Strongly agree,computerProgramming,Rarely_percentage,0.57
+708,Brazil,Strongly agree,extracurricularActivity,always_percentage,0.29
+709,Brazil,Strongly agree,extracurricularActivity,Often_percentage,0.25
+710,Brazil,Strongly agree,extracurricularActivity,Sometimes_percentage,0.26
+711,Brazil,Strongly agree,extracurricularActivity,Rarely_percentage,0.2
+712,Brazil,Strongly agree,helpFriendsMaths,always_percentage,0.4
+713,Brazil,Strongly agree,helpFriendsMaths,Often_percentage,0.34
+714,Brazil,Strongly agree,helpFriendsMaths,Sometimes_percentage,0.2
+715,Brazil,Strongly agree,helpFriendsMaths,Rarely_percentage,0.07
+716,Brazil,Strongly agree,participateInCompetitions,always_percentage,0.26
+717,Brazil,Strongly agree,participateInCompetitions,Often_percentage,0.18
+718,Brazil,Strongly agree,participateInCompetitions,Sometimes_percentage,0.2
+719,Brazil,Strongly agree,participateInCompetitions,Rarely_percentage,0.37
+720,Brazil,Strongly agree,participateInMathClub,always_percentage,0.15
+721,Brazil,Strongly agree,participateInMathClub,Often_percentage,0.08
+722,Brazil,Strongly agree,participateInMathClub,Sometimes_percentage,0.07
+723,Brazil,Strongly agree,participateInMathClub,Rarely_percentage,0.7
+724,Brazil,Strongly agree,playChess,always_percentage,0.23
+725,Brazil,Strongly agree,playChess,Often_percentage,0.14
+726,Brazil,Strongly agree,playChess,Sometimes_percentage,0.17
+727,Brazil,Strongly agree,playChess,Rarely_percentage,0.46
+728,Brazil,Strongly agree,studyMoreThan2ExtraHoursADay,always_percentage,0.2
+729,Brazil,Strongly agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.18
+730,Brazil,Strongly agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.28
+731,Brazil,Strongly agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.34
+732,Brazil,Strongly agree,talkAboutMaths,always_percentage,0.35
+733,Brazil,Strongly agree,talkAboutMaths,Often_percentage,0.24
+734,Brazil,Strongly agree,talkAboutMaths,Sometimes_percentage,0.26
+735,Brazil,Strongly agree,talkAboutMaths,Rarely_percentage,0.14
+736,Brazil,Strongly disagree,computerProgramming,always_percentage,0.09
+737,Brazil,Strongly disagree,computerProgramming,Often_percentage,0.07
+738,Brazil,Strongly disagree,computerProgramming,Sometimes_percentage,0.13
+739,Brazil,Strongly disagree,computerProgramming,Rarely_percentage,0.71
+740,Brazil,Strongly disagree,extracurricularActivity,always_percentage,0.05
+741,Brazil,Strongly disagree,extracurricularActivity,Often_percentage,0.12
+742,Brazil,Strongly disagree,extracurricularActivity,Sometimes_percentage,0.24
+743,Brazil,Strongly disagree,extracurricularActivity,Rarely_percentage,0.6
+744,Brazil,Strongly disagree,helpFriendsMaths,always_percentage,0.05
+745,Brazil,Strongly disagree,helpFriendsMaths,Often_percentage,0.15
+746,Brazil,Strongly disagree,helpFriendsMaths,Sometimes_percentage,0.3
+747,Brazil,Strongly disagree,helpFriendsMaths,Rarely_percentage,0.49
+748,Brazil,Strongly disagree,participateInCompetitions,always_percentage,0.05
+749,Brazil,Strongly disagree,participateInCompetitions,Often_percentage,0.06
+750,Brazil,Strongly disagree,participateInCompetitions,Sometimes_percentage,0.13
+751,Brazil,Strongly disagree,participateInCompetitions,Rarely_percentage,0.77
+752,Brazil,Strongly disagree,participateInMathClub,always_percentage,0.03
+753,Brazil,Strongly disagree,participateInMathClub,Often_percentage,0.04
+754,Brazil,Strongly disagree,participateInMathClub,Sometimes_percentage,0.05
+755,Brazil,Strongly disagree,participateInMathClub,Rarely_percentage,0.88
+756,Brazil,Strongly disagree,playChess,always_percentage,0.07
+757,Brazil,Strongly disagree,playChess,Often_percentage,0.11
+758,Brazil,Strongly disagree,playChess,Sometimes_percentage,0.22
+759,Brazil,Strongly disagree,playChess,Rarely_percentage,0.61
+760,Brazil,Strongly disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.05
+761,Brazil,Strongly disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.07
+762,Brazil,Strongly disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.16
+763,Brazil,Strongly disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.73
+764,Brazil,Strongly disagree,talkAboutMaths,always_percentage,0.18
+765,Brazil,Strongly disagree,talkAboutMaths,Often_percentage,0.16
+766,Brazil,Strongly disagree,talkAboutMaths,Sometimes_percentage,0.3
+767,Brazil,Strongly disagree,talkAboutMaths,Rarely_percentage,0.36
+768,Bulgaria,Agree,computerProgramming,always_percentage,0.09
+769,Bulgaria,Agree,computerProgramming,Often_percentage,0.2
+770,Bulgaria,Agree,computerProgramming,Sometimes_percentage,0.27
+771,Bulgaria,Agree,computerProgramming,Rarely_percentage,0.44
+772,Bulgaria,Agree,extracurricularActivity,always_percentage,0.05
+773,Bulgaria,Agree,extracurricularActivity,Often_percentage,0.16
+774,Bulgaria,Agree,extracurricularActivity,Sometimes_percentage,0.33
+775,Bulgaria,Agree,extracurricularActivity,Rarely_percentage,0.45
+776,Bulgaria,Agree,helpFriendsMaths,always_percentage,0.06
+777,Bulgaria,Agree,helpFriendsMaths,Often_percentage,0.27
+778,Bulgaria,Agree,helpFriendsMaths,Sometimes_percentage,0.46
+779,Bulgaria,Agree,helpFriendsMaths,Rarely_percentage,0.21
+780,Bulgaria,Agree,participateInCompetitions,always_percentage,0.04
+781,Bulgaria,Agree,participateInCompetitions,Often_percentage,0.14
+782,Bulgaria,Agree,participateInCompetitions,Sometimes_percentage,0.38
+783,Bulgaria,Agree,participateInCompetitions,Rarely_percentage,0.44
+784,Bulgaria,Agree,participateInMathClub,always_percentage,0.05
+785,Bulgaria,Agree,participateInMathClub,Often_percentage,0.08
+786,Bulgaria,Agree,participateInMathClub,Sometimes_percentage,0.12
+787,Bulgaria,Agree,participateInMathClub,Rarely_percentage,0.75
+788,Bulgaria,Agree,playChess,always_percentage,0.1
+789,Bulgaria,Agree,playChess,Often_percentage,0.17
+790,Bulgaria,Agree,playChess,Sometimes_percentage,0.29
+791,Bulgaria,Agree,playChess,Rarely_percentage,0.45
+792,Bulgaria,Agree,studyMoreThan2ExtraHoursADay,always_percentage,0.06
+793,Bulgaria,Agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.14
+794,Bulgaria,Agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.33
+795,Bulgaria,Agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.47
+796,Bulgaria,Agree,talkAboutMaths,always_percentage,0.08
+797,Bulgaria,Agree,talkAboutMaths,Often_percentage,0.17
+798,Bulgaria,Agree,talkAboutMaths,Sometimes_percentage,0.48
+799,Bulgaria,Agree,talkAboutMaths,Rarely_percentage,0.28
+800,Bulgaria,Disagree,computerProgramming,always_percentage,0.08
+801,Bulgaria,Disagree,computerProgramming,Often_percentage,0.15
+802,Bulgaria,Disagree,computerProgramming,Sometimes_percentage,0.3
+803,Bulgaria,Disagree,computerProgramming,Rarely_percentage,0.46
+804,Bulgaria,Disagree,extracurricularActivity,always_percentage,0.02
+805,Bulgaria,Disagree,extracurricularActivity,Often_percentage,0.07
+806,Bulgaria,Disagree,extracurricularActivity,Sometimes_percentage,0.27
+807,Bulgaria,Disagree,extracurricularActivity,Rarely_percentage,0.63
+808,Bulgaria,Disagree,helpFriendsMaths,always_percentage,0.03
+809,Bulgaria,Disagree,helpFriendsMaths,Often_percentage,0.09
+810,Bulgaria,Disagree,helpFriendsMaths,Sometimes_percentage,0.41
+811,Bulgaria,Disagree,helpFriendsMaths,Rarely_percentage,0.47
+812,Bulgaria,Disagree,participateInCompetitions,always_percentage,0.02
+813,Bulgaria,Disagree,participateInCompetitions,Often_percentage,0.07
+814,Bulgaria,Disagree,participateInCompetitions,Sometimes_percentage,0.2
+815,Bulgaria,Disagree,participateInCompetitions,Rarely_percentage,0.71
+816,Bulgaria,Disagree,participateInMathClub,always_percentage,0.02
+817,Bulgaria,Disagree,participateInMathClub,Often_percentage,0.04
+818,Bulgaria,Disagree,participateInMathClub,Sometimes_percentage,0.08
+819,Bulgaria,Disagree,participateInMathClub,Rarely_percentage,0.86
+820,Bulgaria,Disagree,playChess,always_percentage,0.07
+821,Bulgaria,Disagree,playChess,Often_percentage,0.17
+822,Bulgaria,Disagree,playChess,Sometimes_percentage,0.32
+823,Bulgaria,Disagree,playChess,Rarely_percentage,0.44
+824,Bulgaria,Disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.03
+825,Bulgaria,Disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.07
+826,Bulgaria,Disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.26
+827,Bulgaria,Disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.63
+828,Bulgaria,Disagree,talkAboutMaths,always_percentage,0.05
+829,Bulgaria,Disagree,talkAboutMaths,Often_percentage,0.1
+830,Bulgaria,Disagree,talkAboutMaths,Sometimes_percentage,0.4
+831,Bulgaria,Disagree,talkAboutMaths,Rarely_percentage,0.45
+832,Bulgaria,Strongly agree,computerProgramming,always_percentage,0.26
+833,Bulgaria,Strongly agree,computerProgramming,Often_percentage,0.14
+834,Bulgaria,Strongly agree,computerProgramming,Sometimes_percentage,0.22
+835,Bulgaria,Strongly agree,computerProgramming,Rarely_percentage,0.38
+836,Bulgaria,Strongly agree,extracurricularActivity,always_percentage,0.22
+837,Bulgaria,Strongly agree,extracurricularActivity,Often_percentage,0.16
+838,Bulgaria,Strongly agree,extracurricularActivity,Sometimes_percentage,0.26
+839,Bulgaria,Strongly agree,extracurricularActivity,Rarely_percentage,0.36
+840,Bulgaria,Strongly agree,helpFriendsMaths,always_percentage,0.27
+841,Bulgaria,Strongly agree,helpFriendsMaths,Often_percentage,0.31
+842,Bulgaria,Strongly agree,helpFriendsMaths,Sometimes_percentage,0.3
+843,Bulgaria,Strongly agree,helpFriendsMaths,Rarely_percentage,0.12
+844,Bulgaria,Strongly agree,participateInCompetitions,always_percentage,0.29
+845,Bulgaria,Strongly agree,participateInCompetitions,Often_percentage,0.14
+846,Bulgaria,Strongly agree,participateInCompetitions,Sometimes_percentage,0.26
+847,Bulgaria,Strongly agree,participateInCompetitions,Rarely_percentage,0.32
+848,Bulgaria,Strongly agree,participateInMathClub,always_percentage,0.17
+849,Bulgaria,Strongly agree,participateInMathClub,Often_percentage,0.1
+850,Bulgaria,Strongly agree,participateInMathClub,Sometimes_percentage,0.09
+851,Bulgaria,Strongly agree,participateInMathClub,Rarely_percentage,0.65
+852,Bulgaria,Strongly agree,playChess,always_percentage,0.24
+853,Bulgaria,Strongly agree,playChess,Often_percentage,0.15
+854,Bulgaria,Strongly agree,playChess,Sometimes_percentage,0.21
+855,Bulgaria,Strongly agree,playChess,Rarely_percentage,0.39
+856,Bulgaria,Strongly agree,studyMoreThan2ExtraHoursADay,always_percentage,0.24
+857,Bulgaria,Strongly agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.18
+858,Bulgaria,Strongly agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.22
+859,Bulgaria,Strongly agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.36
+860,Bulgaria,Strongly agree,talkAboutMaths,always_percentage,0.25
+861,Bulgaria,Strongly agree,talkAboutMaths,Often_percentage,0.15
+862,Bulgaria,Strongly agree,talkAboutMaths,Sometimes_percentage,0.32
+863,Bulgaria,Strongly agree,talkAboutMaths,Rarely_percentage,0.28
+864,Bulgaria,Strongly disagree,computerProgramming,always_percentage,0.14
+865,Bulgaria,Strongly disagree,computerProgramming,Often_percentage,0.11
+866,Bulgaria,Strongly disagree,computerProgramming,Sometimes_percentage,0.3
+867,Bulgaria,Strongly disagree,computerProgramming,Rarely_percentage,0.45
+868,Bulgaria,Strongly disagree,extracurricularActivity,always_percentage,0.07
+869,Bulgaria,Strongly disagree,extracurricularActivity,Often_percentage,0.07
+870,Bulgaria,Strongly disagree,extracurricularActivity,Sometimes_percentage,0.12
+871,Bulgaria,Strongly disagree,extracurricularActivity,Rarely_percentage,0.75
+872,Bulgaria,Strongly disagree,helpFriendsMaths,always_percentage,0.06
+873,Bulgaria,Strongly disagree,helpFriendsMaths,Often_percentage,0.08
+874,Bulgaria,Strongly disagree,helpFriendsMaths,Sometimes_percentage,0.13
+875,Bulgaria,Strongly disagree,helpFriendsMaths,Rarely_percentage,0.74
+876,Bulgaria,Strongly disagree,participateInCompetitions,always_percentage,0.05
+877,Bulgaria,Strongly disagree,participateInCompetitions,Often_percentage,0.07
+878,Bulgaria,Strongly disagree,participateInCompetitions,Sometimes_percentage,0.1
+879,Bulgaria,Strongly disagree,participateInCompetitions,Rarely_percentage,0.78
+880,Bulgaria,Strongly disagree,participateInMathClub,always_percentage,0.07
+881,Bulgaria,Strongly disagree,participateInMathClub,Often_percentage,0.04
+882,Bulgaria,Strongly disagree,participateInMathClub,Sometimes_percentage,0.05
+883,Bulgaria,Strongly disagree,participateInMathClub,Rarely_percentage,0.84
+884,Bulgaria,Strongly disagree,playChess,always_percentage,0.14
+885,Bulgaria,Strongly disagree,playChess,Often_percentage,0.19
+886,Bulgaria,Strongly disagree,playChess,Sometimes_percentage,0.24
+887,Bulgaria,Strongly disagree,playChess,Rarely_percentage,0.43
+888,Bulgaria,Strongly disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.06
+889,Bulgaria,Strongly disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.05
+890,Bulgaria,Strongly disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.08
+891,Bulgaria,Strongly disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.81
+892,Bulgaria,Strongly disagree,talkAboutMaths,always_percentage,0.13
+893,Bulgaria,Strongly disagree,talkAboutMaths,Often_percentage,0.07
+894,Bulgaria,Strongly disagree,talkAboutMaths,Sometimes_percentage,0.22
+895,Bulgaria,Strongly disagree,talkAboutMaths,Rarely_percentage,0.58
+896,United Arab Emirates,Agree,computerProgramming,always_percentage,0.17
+897,United Arab Emirates,Agree,computerProgramming,Often_percentage,0.25
+898,United Arab Emirates,Agree,computerProgramming,Sometimes_percentage,0.25
+899,United Arab Emirates,Agree,computerProgramming,Rarely_percentage,0.34
+900,United Arab Emirates,Agree,extracurricularActivity,always_percentage,0.12
+901,United Arab Emirates,Agree,extracurricularActivity,Often_percentage,0.27
+902,United Arab Emirates,Agree,extracurricularActivity,Sometimes_percentage,0.34
+903,United Arab Emirates,Agree,extracurricularActivity,Rarely_percentage,0.27
+904,United Arab Emirates,Agree,helpFriendsMaths,always_percentage,0.17
+905,United Arab Emirates,Agree,helpFriendsMaths,Often_percentage,0.44
+906,United Arab Emirates,Agree,helpFriendsMaths,Sometimes_percentage,0.33
+907,United Arab Emirates,Agree,helpFriendsMaths,Rarely_percentage,0.07
+908,United Arab Emirates,Agree,participateInCompetitions,always_percentage,0.09
+909,United Arab Emirates,Agree,participateInCompetitions,Often_percentage,0.19
+910,United Arab Emirates,Agree,participateInCompetitions,Sometimes_percentage,0.3
+911,United Arab Emirates,Agree,participateInCompetitions,Rarely_percentage,0.42
+912,United Arab Emirates,Agree,participateInMathClub,always_percentage,0.07
+913,United Arab Emirates,Agree,participateInMathClub,Often_percentage,0.13
+914,United Arab Emirates,Agree,participateInMathClub,Sometimes_percentage,0.18
+915,United Arab Emirates,Agree,participateInMathClub,Rarely_percentage,0.62
+916,United Arab Emirates,Agree,playChess,always_percentage,0.11
+917,United Arab Emirates,Agree,playChess,Often_percentage,0.2
+918,United Arab Emirates,Agree,playChess,Sometimes_percentage,0.24
+919,United Arab Emirates,Agree,playChess,Rarely_percentage,0.46
+920,United Arab Emirates,Agree,studyMoreThan2ExtraHoursADay,always_percentage,0.13
+921,United Arab Emirates,Agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.22
+922,United Arab Emirates,Agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.38
+923,United Arab Emirates,Agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.26
+924,United Arab Emirates,Agree,talkAboutMaths,always_percentage,0.14
+925,United Arab Emirates,Agree,talkAboutMaths,Often_percentage,0.3
+926,United Arab Emirates,Agree,talkAboutMaths,Sometimes_percentage,0.35
+927,United Arab Emirates,Agree,talkAboutMaths,Rarely_percentage,0.21
+928,United Arab Emirates,Disagree,computerProgramming,always_percentage,0.16
+929,United Arab Emirates,Disagree,computerProgramming,Often_percentage,0.23
+930,United Arab Emirates,Disagree,computerProgramming,Sometimes_percentage,0.26
+931,United Arab Emirates,Disagree,computerProgramming,Rarely_percentage,0.35
+932,United Arab Emirates,Disagree,extracurricularActivity,always_percentage,0.08
+933,United Arab Emirates,Disagree,extracurricularActivity,Often_percentage,0.2
+934,United Arab Emirates,Disagree,extracurricularActivity,Sometimes_percentage,0.32
+935,United Arab Emirates,Disagree,extracurricularActivity,Rarely_percentage,0.4
+936,United Arab Emirates,Disagree,helpFriendsMaths,always_percentage,0.07
+937,United Arab Emirates,Disagree,helpFriendsMaths,Often_percentage,0.24
+938,United Arab Emirates,Disagree,helpFriendsMaths,Sometimes_percentage,0.46
+939,United Arab Emirates,Disagree,helpFriendsMaths,Rarely_percentage,0.23
+940,United Arab Emirates,Disagree,participateInCompetitions,always_percentage,0.06
+941,United Arab Emirates,Disagree,participateInCompetitions,Often_percentage,0.13
+942,United Arab Emirates,Disagree,participateInCompetitions,Sometimes_percentage,0.23
+943,United Arab Emirates,Disagree,participateInCompetitions,Rarely_percentage,0.58
+944,United Arab Emirates,Disagree,participateInMathClub,always_percentage,0.05
+945,United Arab Emirates,Disagree,participateInMathClub,Often_percentage,0.08
+946,United Arab Emirates,Disagree,participateInMathClub,Sometimes_percentage,0.15
+947,United Arab Emirates,Disagree,participateInMathClub,Rarely_percentage,0.71
+948,United Arab Emirates,Disagree,playChess,always_percentage,0.08
+949,United Arab Emirates,Disagree,playChess,Often_percentage,0.17
+950,United Arab Emirates,Disagree,playChess,Sometimes_percentage,0.26
+951,United Arab Emirates,Disagree,playChess,Rarely_percentage,0.5
+952,United Arab Emirates,Disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.11
+953,United Arab Emirates,Disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.2
+954,United Arab Emirates,Disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.33
+955,United Arab Emirates,Disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.36
+956,United Arab Emirates,Disagree,talkAboutMaths,always_percentage,0.13
+957,United Arab Emirates,Disagree,talkAboutMaths,Often_percentage,0.29
+958,United Arab Emirates,Disagree,talkAboutMaths,Sometimes_percentage,0.3
+959,United Arab Emirates,Disagree,talkAboutMaths,Rarely_percentage,0.29
+960,United Arab Emirates,Strongly agree,computerProgramming,always_percentage,0.28
+961,United Arab Emirates,Strongly agree,computerProgramming,Often_percentage,0.22
+962,United Arab Emirates,Strongly agree,computerProgramming,Sometimes_percentage,0.22
+963,United Arab Emirates,Strongly agree,computerProgramming,Rarely_percentage,0.29
+964,United Arab Emirates,Strongly agree,extracurricularActivity,always_percentage,0.32
+965,United Arab Emirates,Strongly agree,extracurricularActivity,Often_percentage,0.28
+966,United Arab Emirates,Strongly agree,extracurricularActivity,Sometimes_percentage,0.25
+967,United Arab Emirates,Strongly agree,extracurricularActivity,Rarely_percentage,0.15
+968,United Arab Emirates,Strongly agree,helpFriendsMaths,always_percentage,0.44
+969,United Arab Emirates,Strongly agree,helpFriendsMaths,Often_percentage,0.39
+970,United Arab Emirates,Strongly agree,helpFriendsMaths,Sometimes_percentage,0.15
+971,United Arab Emirates,Strongly agree,helpFriendsMaths,Rarely_percentage,0.02
+972,United Arab Emirates,Strongly agree,participateInCompetitions,always_percentage,0.26
+973,United Arab Emirates,Strongly agree,participateInCompetitions,Often_percentage,0.25
+974,United Arab Emirates,Strongly agree,participateInCompetitions,Sometimes_percentage,0.25
+975,United Arab Emirates,Strongly agree,participateInCompetitions,Rarely_percentage,0.25
+976,United Arab Emirates,Strongly agree,participateInMathClub,always_percentage,0.17
+977,United Arab Emirates,Strongly agree,participateInMathClub,Often_percentage,0.16
+978,United Arab Emirates,Strongly agree,participateInMathClub,Sometimes_percentage,0.17
+979,United Arab Emirates,Strongly agree,participateInMathClub,Rarely_percentage,0.49
+980,United Arab Emirates,Strongly agree,playChess,always_percentage,0.21
+981,United Arab Emirates,Strongly agree,playChess,Often_percentage,0.16
+982,United Arab Emirates,Strongly agree,playChess,Sometimes_percentage,0.19
+983,United Arab Emirates,Strongly agree,playChess,Rarely_percentage,0.44
+984,United Arab Emirates,Strongly agree,studyMoreThan2ExtraHoursADay,always_percentage,0.27
+985,United Arab Emirates,Strongly agree,studyMoreThan2ExtraHoursADay,Often_percentage,0.23
+986,United Arab Emirates,Strongly agree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.3
+987,United Arab Emirates,Strongly agree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.2
+988,United Arab Emirates,Strongly agree,talkAboutMaths,always_percentage,0.28
+989,United Arab Emirates,Strongly agree,talkAboutMaths,Often_percentage,0.29
+990,United Arab Emirates,Strongly agree,talkAboutMaths,Sometimes_percentage,0.29
+991,United Arab Emirates,Strongly agree,talkAboutMaths,Rarely_percentage,0.14
+992,United Arab Emirates,Strongly disagree,computerProgramming,always_percentage,0.25
+993,United Arab Emirates,Strongly disagree,computerProgramming,Often_percentage,0.18
+994,United Arab Emirates,Strongly disagree,computerProgramming,Sometimes_percentage,0.17
+995,United Arab Emirates,Strongly disagree,computerProgramming,Rarely_percentage,0.4
+996,United Arab Emirates,Strongly disagree,extracurricularActivity,always_percentage,0.11
+997,United Arab Emirates,Strongly disagree,extracurricularActivity,Often_percentage,0.18
+998,United Arab Emirates,Strongly disagree,extracurricularActivity,Sometimes_percentage,0.24
+999,United Arab Emirates,Strongly disagree,extracurricularActivity,Rarely_percentage,0.48
+1000,United Arab Emirates,Strongly disagree,helpFriendsMaths,always_percentage,0.14
+1001,United Arab Emirates,Strongly disagree,helpFriendsMaths,Often_percentage,0.26
+1002,United Arab Emirates,Strongly disagree,helpFriendsMaths,Sometimes_percentage,0.22
+1003,United Arab Emirates,Strongly disagree,helpFriendsMaths,Rarely_percentage,0.38
+1004,United Arab Emirates,Strongly disagree,participateInCompetitions,always_percentage,0.09
+1005,United Arab Emirates,Strongly disagree,participateInCompetitions,Often_percentage,0.11
+1006,United Arab Emirates,Strongly disagree,participateInCompetitions,Sometimes_percentage,0.16
+1007,United Arab Emirates,Strongly disagree,participateInCompetitions,Rarely_percentage,0.63
+1008,United Arab Emirates,Strongly disagree,participateInMathClub,always_percentage,0.13
+1009,United Arab Emirates,Strongly disagree,participateInMathClub,Often_percentage,0.1
+1010,United Arab Emirates,Strongly disagree,participateInMathClub,Sometimes_percentage,0.12
+1011,United Arab Emirates,Strongly disagree,participateInMathClub,Rarely_percentage,0.66
+1012,United Arab Emirates,Strongly disagree,playChess,always_percentage,0.15
+1013,United Arab Emirates,Strongly disagree,playChess,Often_percentage,0.2
+1014,United Arab Emirates,Strongly disagree,playChess,Sometimes_percentage,0.15
+1015,United Arab Emirates,Strongly disagree,playChess,Rarely_percentage,0.51
+1016,United Arab Emirates,Strongly disagree,studyMoreThan2ExtraHoursADay,always_percentage,0.15
+1017,United Arab Emirates,Strongly disagree,studyMoreThan2ExtraHoursADay,Often_percentage,0.13
+1018,United Arab Emirates,Strongly disagree,studyMoreThan2ExtraHoursADay,Sometimes_percentage,0.17
+1019,United Arab Emirates,Strongly disagree,studyMoreThan2ExtraHoursADay,Rarely_percentage,0.55
+1020,United Arab Emirates,Strongly disagree,talkAboutMaths,always_percentage,0.24
+1021,United Arab Emirates,Strongly disagree,talkAboutMaths,Often_percentage,0.24
+1022,United Arab Emirates,Strongly disagree,talkAboutMaths,Sometimes_percentage,0.17
+1023,United Arab Emirates,Strongly disagree,talkAboutMaths,Rarely_percentage,0.35
