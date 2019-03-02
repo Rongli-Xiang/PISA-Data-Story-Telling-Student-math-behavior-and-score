@@ -12,7 +12,7 @@ The variable of the dataset has 636 variables. I only included the subset of 8 s
 tions","studyMoreThan2ExtraHoursADay","playChess","computerProgramming","participateIn MathClub") for analysis.
 
 ## Step Three- Create Visualization
-Built a story on Tableau to convey my finding.
+Built a story on Tableau to convey my findings.
 
 ## Step Four- Feedback
 I share my project and get 3 feedback to improve my visualization.
